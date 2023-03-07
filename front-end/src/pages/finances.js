@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './finances.css';
+import './pages/finances.css';
 
 // paid/requesting $[amount] to/from @user for [text]
 function TransactionForm({ onSubmit }) {
